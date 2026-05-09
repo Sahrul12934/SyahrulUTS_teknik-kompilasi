@@ -1,7 +1,7 @@
 # UTS TEKNIK KOMPILASI
 
 Nama : M. SAHRUL RAMDANI
-NIM : 231011400490
+NIM  : 231011400490
 KELAS: 06TPLE006
 
 # Tugas Mandiri: Implementasi Fase-Fase Kompilator
