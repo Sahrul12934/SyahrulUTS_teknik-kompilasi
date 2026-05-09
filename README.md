@@ -1,4 +1,4 @@
-# Uts_Teknik_kompilasi
+# UTS TEKNIK KOMPILASI
 
 Nama : M. SAHRUL RAMDANI
 NIM : 231011400490
