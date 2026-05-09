@@ -1,4 +1,5 @@
 Uts_Teknik_kompilasi
+
 Nama : M. Sahrul Ramdani
 Nim : 231011400290 
 Kelas: 06TPLE006
@@ -35,7 +36,6 @@ Input: a ^ 2 + b * c
 Symbol Table: {'a': 5, 'b': 10, 'c': 2}
 
 Output TAC:
-
 t1 = a ^ 2.0
 t2 = b * c
 t3 = t1 + t2
